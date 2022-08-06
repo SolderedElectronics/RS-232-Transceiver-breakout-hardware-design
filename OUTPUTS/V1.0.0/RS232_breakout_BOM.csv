@@ -1,0 +1,15 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"Logo-Back-OSH-3.5mm";1;"LOGO";;;
+2;"REF**";"Logo-Back-SolderedFULL-20mm";1;"Logo-Front-SolderedFULL-20mm";;;
+3;"Ref**";"Version1.0.0.";1;"Val**";;;
+4;"REF**";"Logo-Front-SolderedFULL-15mm";1;"Logo-Front-SolderedFULL-15mm";;;
+5;",,,,,,,,,,,,,,";"buzzardLabel";15;"";;;
+6;"H4,H3,H2,H1";"HOLE_3.2mm";4;"HOLE_3.2mm";;;
+7;"U1";"TSSOP-16";1;"MAX232E";;;
+8;"R1";"0402R";1;"2k2";;;
+9;"K3";"HEADER_MALE_6X1";1;"HEADER_MALE_6X1";;;
+10;"K2,K1";"TERMINAL_KF235-5.0-3P";2;"TERMINAL_KF235-5.0-3P";;;
+11;"JP1";"SMD-JUMPER-CONNECTED_TRACE_SLODERMASK";1;"SMD-JUMPER-CONNECTED_TRACE_SLODERMASK";;;
+12;"FD1";"FIDUCIAL_23";1;"FIDUCIAL";;;
+13;"D1";"0402LED";1;"purple";;;
+14;"C5,C4,C3,C2,C1";"0603C";5;"4u7";;;
